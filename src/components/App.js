@@ -9,7 +9,4 @@ return (
 }
 
 export default App;
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
